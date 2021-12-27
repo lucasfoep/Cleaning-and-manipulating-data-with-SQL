@@ -1,2 +1,2 @@
-# Cleaning-and-manipulating-data-with-SQL
+# Nashville Housing Database
 Cleans and manipulates data using T-SQL
